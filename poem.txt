@@ -7,4 +7,4 @@ green
 yellow
 orange 
 red
-these are the coulurs of rainbow
+these are the colours of rainbow
